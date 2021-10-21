@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miroslav Slouf.
-- 📫 contact: mirek.slouf@gmail.com
+- 📫 Contact: mirek.slouf@gmail.com
 
 <!---
 mirekslouf/mirekslouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
