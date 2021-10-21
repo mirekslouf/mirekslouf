@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miroslav Slouf.
+- 👋 Hi, I’m Mirek Slouf.
 - 📫 Contact: mirek.slouf@gmail.com
 
 <!---
