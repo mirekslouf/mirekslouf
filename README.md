@@ -5,7 +5,7 @@ GitHub Pages, MirekSlouf
 * Just links to my selected projects in GitHub:
   - [STEMDIFF](https://mirekslouf.github.io/stemdiff/) = Convert 4D-STEM datasets to 2D-powder diffractograms.
   - [EDIFF](https://mirekslouf.github.io/ediff/) = Processing of 2D-powder diffraction patterns.
-  - [MCREEP](https://mirekslouf.github.io/ediff/) = Automated fitting of various models to creep data.
+  - [MCREEP](https://mirekslouf.github.io/mcreep/) = Automated fitting of various models to creep data.
 
 <!---
 mirekslouf/mirekslouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
