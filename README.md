@@ -1,5 +1,5 @@
-GitHub Pages, MirekSlouf
-------------------------
+GitHub :: MirekSlouf
+--------------------
 
 * A minimalistic www-site, version 0.1
 * Just links to my selected projects in GitHub:
